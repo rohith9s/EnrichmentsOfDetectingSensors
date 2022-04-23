@@ -1,0 +1,24 @@
+{
+  "_index": "packets-2022-04-11",
+  "_type": "pcap_file",
+  "_score": null,
+  "_source": {
+    "layers": {
+      "frame.time": [
+        "Apr 11, 2022 05:07:51.452120654 IST"
+      ],
+      "ip.src": [
+        "10.0.2.15"
+      ],
+      "ip.dst": [
+        "163.53.76.86"
+      ],
+      "tcp.dstport": [
+        "443"
+      ],
+      "ssl.handshake.extensions_server_name": [
+        "www.flipkart.com"
+      ]
+    }
+  }
+}
