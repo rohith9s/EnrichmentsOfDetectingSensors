@@ -1,4 +1,4 @@
 # EnrichmentsOfDetectingSensors
 
-source code to be published in fusture. 
+source code to be published in future. 
 
